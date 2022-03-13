@@ -1,1 +1,1 @@
-Dragon Minter. WIP
+Dragon Minter. WIP. 
